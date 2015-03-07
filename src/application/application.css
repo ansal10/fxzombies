@@ -1,0 +1,37 @@
+.grid-clear{
+    -fx-background-color: white ;
+    -fx-border-color: black;
+    -fx-border-width: .5px;
+}
+
+.grid-solved{
+    -fx-background-color: palevioletred ;
+    -fx-border-color: black;
+    -fx-border-width: .5px;
+}
+
+
+.grid-blocked{
+    -fx-background-color: black ;
+    -fx-border-color: black;
+    -fx-border-width: .5px;
+}
+
+
+.grid-steps{
+    -fx-background-color: red ;
+    -fx-border-color: black;
+    -fx-border-width: .5px;
+}
+
+.grid-nopath{
+    -fx-background-color: yellow ;
+    -fx-border-color: black;
+    -fx-border-width: .5px;
+}
+
+.grid-done{
+    -fx-background-color: palevioletred ;
+    -fx-border-color: black;
+    -fx-border-width: .5px;
+}
